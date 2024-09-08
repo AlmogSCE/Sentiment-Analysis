@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ```
 
 ### Download necessary files and place in assets folder - [Link](https://drive.google.com/drive/folders/1ny2mIkcYqGi9SmV_3bIyfQEcGFSSQItJ?usp=sharing)
-
+### Note - place config.ini in root folder
 ### Run streamlit project
 ```bash
 streamlit run Data.py
