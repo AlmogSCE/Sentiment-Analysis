@@ -1,7 +1,7 @@
 ## Authors: 
-### Almog Bokobza – 209337864
-### Yovel Efraim – 318823010
-### Yam Biton - 315508317
+#### Almog Bokobza – 209337864
+#### Yovel Efraim – 318823010
+#### Yam Biton - 315508317
 
 ## Instructions:
 
